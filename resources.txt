@@ -1,0 +1,5 @@
+Main
+https://pro.ant.design/docs/getting-started
+
+Know the GIT URL for the current project: git config --get remote.origin.url
+https://stackoverflow.com/questions/4089430/how-can-i-determine-the-url-that-a-local-git-repository-was-originally-cloned-fr/4089452
